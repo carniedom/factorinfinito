@@ -1,7 +1,7 @@
 package net.severo.entdes;
 /**
  * 
- * @author Profesor
+ * @author Carmelo Nieto Domene
  *
  */
 public class Factorial {
